@@ -1,16 +1,16 @@
-![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/CesarBaca87/CesarBaca87/2cadd993a4ec1371234fff8589f9c9405133b906/IMG_1376%20(1).jpg)
+![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/CesarBaca87/CesarBaca87/main/CesarBaca87.jpg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Cesar Baca</h1>
-<h3 align="center">Me apasiona programar y salir de viaje a la montaña</h3>
+<h3 align="center">Me apasiona programar, diseñar, crear y disfruto mucho los viajes largos por carretera, conocer nuevos lugares pero sobretodo la montaña... apasionado de las motos y la nueva tecnologia.</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
-
+- 🔭 ACTUALMENTE ESTOY EN BUSQUEDA DE TRABAJO
+  
 - 🌱 ESTOY ESTUDIANDO **UX/UI, HTML, CCS, JavaScrip, React**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
+- 📫 PUEDES CONTACTARME EN **cesarbaca.mkt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
