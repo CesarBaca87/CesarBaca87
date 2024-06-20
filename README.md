@@ -1,12 +1,12 @@
 ![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/CesarBaca87/CesarBaca87/2cadd993a4ec1371234fff8589f9c9405133b906/IMG_1376%20(1).jpg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">Hola 👋, Soy Cesar Baca</h1>
+<h3 align="center">Me apasiona programar y salir de viaje a la montaña</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO **UX/UI, HTML, CCS, JavaScrip, React**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
