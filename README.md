@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/CesarBaca87/CesarBaca87/main/CesarBaca87.jpg)
+![Imagen decorativa de tu perfil]<div width="400" >(https://raw.githubusercontent.com/CesarBaca87/CesarBaca87/main/CesarBaca87.jpg)</div>
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Cesar Baca</h1>
